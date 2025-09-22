@@ -1,5 +1,5 @@
 # Park_et_al_2024
-This repository contains the code and sample data used in the manuscript titled "Astrocytic modulation of population encoding in mouse visual cortex via GABA transporter 3 revealed by multiplexed CRISPR/Cas9 gene editing", submitted to *Neuron*.
+This repository contains the code and sample data used in the manuscript titled "Astrocytic modulation of population encoding in mouse visual cortex via GABA transporter 3 revealed by multiplexed CRISPR/Cas9 gene editing", published in *eLife* (https://doi.org/10.7554/eLife.107298.2).
 
 ## Repository contents 
 
